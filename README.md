@@ -32,4 +32,4 @@
 ### 注意
 * さまざまなグループでGITが使われるが、その場のルールややり方など、文化、ものごとの進め方はだいぶ違うそう。郷に入っては郷に従え、で場のルールなどをよく読んで参加するように、とのこと。
 
-## Licence は[こちらへ]　(https://opensource.org/licenses/)
+## Licence は[こちらへ](https://opensource.org/licenses/)
