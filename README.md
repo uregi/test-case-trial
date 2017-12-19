@@ -4,7 +4,7 @@
 ## tutrial
 
 ### 実際の使い方
-* Repositoryの作り方
+* **Repository** の作り方
 * ライセンスの選び方
 * Readmeをマークダウン書式で記述する
 	* 変更点は緑色で表示
